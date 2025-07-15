@@ -13,13 +13,10 @@ This is the backend server for the WiFi Landing Page system. It collects user in
 
 | Technology | Description |
 |------------|-------------|
-| Node.js + Express | Server-side framework |
+| Node.js | Server-side framework |
 | MongoDB | NoSQL database for storing user data |
 | Mongoose | ORM for MongoDB |
 | dotenv | Environment variable management |
-| Helmet, CORS | Basic security and request protection |
-
----
 
 ## Installation
 
