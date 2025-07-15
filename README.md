@@ -18,11 +18,3 @@ This is the backend server for the WiFi Landing Page system. It collects user in
 | Mongoose | ORM for MongoDB |
 | dotenv | Environment variable management |
 
-## Installation
-
-# 1. Clone the repository
-git clone git@github.com:quynhnhu0405/u444-server.git
-cd u444-server
-
-# 2. Install dependencies
-npm install
