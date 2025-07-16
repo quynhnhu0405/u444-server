@@ -10,4 +10,4 @@ app.use(express.json());
 connectDB();
 app.use("/api/users", userRoutes);
 
-app.listen(5000, () => console.log("Server started on port 5000"));
+app.listen(5000, '0.0.0.0', () => console.log("Server started on port 5000"));
